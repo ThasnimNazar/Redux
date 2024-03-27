@@ -1,0 +1,9 @@
+.imageContainer {
+    width: 200px;
+    height: auto;
+}
+
+.card-custom {
+    border-radius: 10px; /* Adjust the border radius as needed */
+    border: 1px solid #F4C2F4; /* Adjust the border color as needed */
+  }
