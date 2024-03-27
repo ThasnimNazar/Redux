@@ -15,6 +15,8 @@ const Square = () =>{
 }
 
 
+
+
 //make a api request inside the react component and render in the ui:
 
 import {useEffect, useState} from 'react'
